@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/ace-niraj/test.git/static/js/main.9ab564c2.chunk.js",
-    "main.js.map": "/ace-niraj/test.git/static/js/main.9ab564c2.chunk.js.map",
-    "runtime-main.js": "/ace-niraj/test.git/static/js/runtime-main.1e7464f2.js",
-    "runtime-main.js.map": "/ace-niraj/test.git/static/js/runtime-main.1e7464f2.js.map",
-    "static/js/2.961dfcda.chunk.js": "/ace-niraj/test.git/static/js/2.961dfcda.chunk.js",
-    "static/js/2.961dfcda.chunk.js.map": "/ace-niraj/test.git/static/js/2.961dfcda.chunk.js.map",
-    "index.html": "/ace-niraj/test.git/index.html",
-    "static/js/2.961dfcda.chunk.js.LICENSE.txt": "/ace-niraj/test.git/static/js/2.961dfcda.chunk.js.LICENSE.txt"
+    "main.js": "/test/static/js/main.9ab564c2.chunk.js",
+    "main.js.map": "/test/static/js/main.9ab564c2.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.7f5bff74.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.7f5bff74.js.map",
+    "static/js/2.961dfcda.chunk.js": "/test/static/js/2.961dfcda.chunk.js",
+    "static/js/2.961dfcda.chunk.js.map": "/test/static/js/2.961dfcda.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/js/2.961dfcda.chunk.js.LICENSE.txt": "/test/static/js/2.961dfcda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e7464f2.js",
+    "static/js/runtime-main.7f5bff74.js",
     "static/js/2.961dfcda.chunk.js",
     "static/js/main.9ab564c2.chunk.js"
   ]
